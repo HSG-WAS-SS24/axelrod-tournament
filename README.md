@@ -1,6 +1,6 @@
 # WAS Axelrod Tournament
 
-Main repository for the Axelrod Tournament of the Web-based Autonomous Systems course that uses the [Axelrod 4.12.0 Python library](https://pypi.org/project/Axelrod/).
+Main repository for the Axelrod Tournament of the Web-based Autonomous Systems course that uses the [Axelrod 4.13.0 Python library](https://pypi.org/project/Axelrod/).
 
 ## Table of Contents
 -   [How to install Axelrod](#how-to-install-axelrod)
@@ -51,7 +51,7 @@ Before implementing your strategy, you can run `python3 was-human-inclusive-matc
 [playing as a human against a TitForTat player](https://axelrod.readthedocs.io/en/stable/tutorials/new_to_game_theory_and_or_python/human_interaction.html). 
 
 ### Implement and submit your own strategy
-Create a new branch, and [implement your strategy](https://axelrod.readthedocs.io/en/fix-documentation/tutorials/contributing/strategy/writing_the_new_strategy.html) in the `was-tournament.wasstrategies` package. (Also, see an [additional strategy example](https://github.com/Axelrod-Python/Axelrod/blob/75ef1f24187350292c43d244370c100c644748bc/docs/how-to/contributing/strategy/writing_the_new_strategy.rst) that considers the history of interactions.)
+Create a new branch, and [implement your strategy](https://axelrod.readthedocs.io/en/fix-documentation/tutorials/contributing/strategy/writing_the_new_strategy.html) in the `was-tournament.wasstrategies` package. For further examples, see an [additional example strategy](https://github.com/Axelrod-Python/Axelrod/blob/75ef1f24187350292c43d244370c100c644748bc/docs/how-to/contributing/strategy/writing_the_new_strategy.rst) that considers the history of interactions, or [these variations for Tit-for-Tat](https://github.com/Axelrod-Python/Axelrod/blob/dev/axelrod/strategies/titfortat.py).
 
 Your module name should have the format  `{your_name}_strategy.py` and your new strategy class name should have the format `{Name}` (e.g., `Danai()`). See [danai_strategy.py](/was-tournament/wasstrategies/danai_strategy.py) as an example. 
 
