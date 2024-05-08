@@ -36,7 +36,7 @@ class Stephan(Player):
         Random(1) is equivalent to Cooperator
         """
         super().__init__()
-        # self.p = p
+        self.p = p
 
         self.cooperation_count = 0
         self.is_defecting = True

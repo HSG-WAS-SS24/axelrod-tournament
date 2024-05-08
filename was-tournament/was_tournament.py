@@ -1,6 +1,14 @@
 import axelrod as axl
 from wasstrategies import danai_strategy as pl0
-from wasstrategies import jonas_strategy as pl1
+from wasstrategies import marco_strategy as pl1
+from wasstrategies import jonas_strategy as pl2
+from wasstrategies import karim_strategy as pl3
+from wasstrategies import david_strategy as pl4
+from wasstrategies import stephan_strategy as pl5
+from wasstrategies import dan_strategy as pl6
+from wasstrategies import simon_strategy as pl7
+from wasstrategies import simon_parrot_strategy as pl8
+from wasstrategies import alessandro_strategy as pl9
 
 """Run an Axelrod Tournament (https://axelrod.readthedocs.io/en/stable/tutorials/new_to_game_theory_and_or_python/tournament.html)"""
 # Create the strategy players
@@ -10,7 +18,16 @@ strategies = [
     axl.TitForTat(),
     axl.Grudger(),
     pl0.Danai(),
-    pl1.Jonas(),
+    pl1.Marco(),
+    pl2.Jonas(),
+    pl3.Karim(),
+    pl3.Karim2(),
+    pl4.David(),
+    pl5.Stephan(),
+    pl6.Dan(),
+    pl7.Cardassian(),
+    pl8.Parrot(),
+    pl9.Alessandro()
 ]
 
 # Print the startegy players

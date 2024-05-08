@@ -7,37 +7,235 @@ Interaction index,Player index,Opponent index,Repetition,Player name,Opponent na
 2,2,0,0,Tit For Tat,Cooperator,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
 3,0,3,0,Cooperator,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
 3,3,0,0,Grudger,Cooperator,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-4,0,4,0,Cooperator,Danai - Random: 0.5,CCCCCCCCCC,-30,-25,10,-3.0,-2.5,0,True,10,5,5,0,0,5,0,4,0,0,0,0,0,1
-4,4,0,0,Danai - Random: 0.5,Cooperator,CDDDCCCCDD,-5,25,10,-0.5,2.5,1,True,5,5,0,5,0,3,2,0,0,1,3,0,0,0
-5,0,5,0,Cooperator,Jonas - Strategy1: 0.5,CCCCCCCCCC,-46,-45,10,-4.6,-4.5,0,True,10,1,9,0,0,1,0,8,0,0,0,0,0,1
-5,5,0,0,Jonas - Strategy1: 0.5,Cooperator,CDDDDDDDDD,-1,45,10,-0.1,4.5,1,True,1,1,0,9,0,0,1,0,0,0,8,0,0,0
-6,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-6,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-7,1,2,0,Defector,Tit For Tat,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-7,2,1,0,Tit For Tat,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-8,1,3,0,Defector,Grudger,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-8,3,1,0,Grudger,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-9,1,4,0,Defector,Danai - Random: 0.5,DDDDDDDDDD,-9,35,10,-0.9,3.5,1,False,0,0,0,7,3,0,0,0,0,0,7,0,2,0
-9,4,1,0,Danai - Random: 0.5,Defector,CDCCCDCCCD,-44,-35,10,-4.4,-3.5,0,True,7,0,7,0,3,0,0,4,3,0,0,2,0,1
-10,1,5,0,Defector,Jonas - Strategy1: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-10,5,1,0,Jonas - Strategy1: 0.5,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-11,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-11,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-12,2,3,0,Tit For Tat,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-12,3,2,0,Grudger,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-13,2,4,0,Tit For Tat,Danai - Random: 0.5,CCDDCCDDCD,-23,0,10,-2.3,0.0,0,True,5,2,3,3,2,2,0,0,3,2,0,0,2,1
-13,4,2,0,Danai - Random: 0.5,Tit For Tat,CDDCCDDCDC,-23,0,10,-2.3,0.0,0,True,5,2,3,3,2,0,2,1,1,1,2,2,0,1
-14,2,5,0,Tit For Tat,Jonas - Strategy1: 0.5,CCDDDDDDDD,-30,-5,10,-3.0,-0.5,0,True,2,1,1,0,8,1,0,0,1,0,0,0,7,1
-14,5,2,0,Jonas - Strategy1: 0.5,Tit For Tat,CDDDDDDDDD,-25,5,10,-2.5,0.5,1,True,1,1,0,1,8,0,1,0,0,0,1,0,7,0
-15,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-15,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-16,3,4,0,Grudger,Danai - Random: 0.5,CCDDDDDDDD,-15,20,10,-1.5,2.0,1,True,2,1,1,5,3,1,0,0,1,0,4,0,3,0
-16,4,3,0,Danai - Random: 0.5,Grudger,CDDCCCCDDC,-35,-20,10,-3.5,-2.0,0,True,6,1,5,1,3,0,1,3,1,0,1,2,1,1
-17,3,5,0,Grudger,Jonas - Strategy1: 0.5,CCDDDDDDDD,-30,-5,10,-3.0,-0.5,0,True,2,1,1,0,8,1,0,0,1,0,0,0,7,1
-17,5,3,0,Jonas - Strategy1: 0.5,Grudger,CDDDDDDDDD,-25,5,10,-2.5,0.5,1,True,1,1,0,1,8,0,1,0,0,0,1,0,7,0
-18,4,4,0,Danai - Random: 0.5,Danai - Random: 0.5,DDCDDCDCCC,-16,10,10,-1.6,1.0,1,False,5,3,2,4,1,1,2,1,0,3,1,0,1,0
-18,4,4,0,Danai - Random: 0.5,Danai - Random: 0.5,CCCDCCCDCD,-26,-10,10,-2.6,-1.0,0,True,7,3,4,2,1,1,2,3,1,1,0,1,0,1
-19,4,5,0,Danai - Random: 0.5,Jonas - Strategy1: 0.5,DDCCDCCCCC,-25,-10,10,-2.5,-1.0,0,False,7,4,3,1,2,2,1,3,0,0,1,2,0,1
-19,5,4,0,Jonas - Strategy1: 0.5,Danai - Random: 0.5,CDDCDDCDCC,-15,10,10,-1.5,1.0,1,True,5,4,1,3,2,1,2,0,1,3,0,0,2,0
-20,5,5,0,Jonas - Strategy1: 0.5,Jonas - Strategy1: 0.5,CDDDDDDDDD,-28,0,10,-2.8,0.0,0,True,1,1,0,0,9,0,1,0,0,0,0,0,8,1
-20,5,5,0,Jonas - Strategy1: 0.5,Jonas - Strategy1: 0.5,CDDDDDDDDD,-28,0,10,-2.8,0.0,0,True,1,1,0,0,9,0,1,0,0,0,0,0,8,1
+4,0,4,0,Cooperator,Danai - Random: 0.5,CCCCCCCCCC,-22,-15,10,-2.2,-1.5,0,True,10,7,3,0,0,6,0,3,0,0,0,0,0,1
+4,4,0,0,Danai - Random: 0.5,Cooperator,DCCCCDDCCC,-7,15,10,-0.7,1.5,1,False,7,7,0,3,0,5,1,0,0,2,1,0,0,0
+5,0,5,0,Cooperator,Marco - IncreasingAlternator,CCCCCCCCCC,-26,-20,10,-2.6,-2.0,0,True,10,6,4,0,0,6,0,3,0,0,0,0,0,1
+5,5,0,0,Marco - IncreasingAlternator,Cooperator,CDCCDDCCCD,-6,20,10,-0.6,2.0,1,True,6,6,0,4,0,3,3,0,0,2,1,0,0,0
+6,0,6,0,Cooperator,Jonas - Strategy1: 0.5,CCCCCCCCCC,-46,-45,10,-4.6,-4.5,0,True,10,1,9,0,0,1,0,8,0,0,0,0,0,1
+6,6,0,0,Jonas - Strategy1: 0.5,Cooperator,CDDDDDDDDD,-1,45,10,-0.1,4.5,1,True,1,1,0,9,0,0,1,0,0,0,8,0,0,0
+7,0,7,0,Cooperator,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+7,7,0,0,Karim - Simple: 0.5,Cooperator,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+8,0,8,0,Cooperator,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+8,8,0,0,Karim - Ressurection: 0.5,Cooperator,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+9,0,9,0,Cooperator,David - Kobayashi Maru: 0.5,CCCCCCCCCC,-42,-40,10,-4.2,-4.0,0,True,10,2,8,0,0,2,0,7,0,0,0,0,0,1
+9,9,0,0,David - Kobayashi Maru: 0.5,Cooperator,DDDCDDDCDD,-2,40,10,-0.2,4.0,1,False,2,2,0,8,0,0,2,0,0,2,5,0,0,0
+10,0,10,0,Cooperator,Stephan: 0.5,CCCCCCCCCC,-26,-20,10,-2.6,-2.0,0,True,10,6,4,0,0,5,0,4,0,0,0,0,0,1
+10,10,0,0,Stephan: 0.5,Cooperator,DDDDCCCCCC,-6,20,10,-0.6,2.0,1,False,6,6,0,4,0,5,0,0,0,1,3,0,0,0
+11,0,11,0,Cooperator,Dan - Strategy: 0.5,CCCCCCCCCC,-50,-50,10,-5.0,-5.0,0,True,10,0,10,0,0,0,0,9,0,0,0,0,0,1
+11,11,0,0,Dan - Strategy: 0.5,Cooperator,DDDDDDDDDD,0,50,10,0.0,5.0,1,False,0,0,0,10,0,0,0,0,0,0,9,0,0,0
+12,0,12,0,Cooperator,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+12,12,0,0,Cardassian General: 0.5,Cooperator,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+13,0,13,0,Cooperator,Cardassian General: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+13,13,0,0,Cardassian General: 0.5,Cooperator,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+14,0,14,0,Cooperator,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+14,14,0,0,Alessandro - Random: 0.5,Cooperator,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+15,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+15,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+16,1,2,0,Defector,Tit For Tat,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+16,2,1,0,Tit For Tat,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+17,1,3,0,Defector,Grudger,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+17,3,1,0,Grudger,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+18,1,4,0,Defector,Danai - Random: 0.5,DDDDDDDDDD,-9,35,10,-0.9,3.5,1,False,0,0,0,7,3,0,0,0,0,0,7,0,2,0
+18,4,1,0,Danai - Random: 0.5,Defector,CCDCCCDCCD,-44,-35,10,-4.4,-3.5,0,True,7,0,7,0,3,0,0,4,3,0,0,2,0,1
+19,1,5,0,Defector,Marco - IncreasingAlternator,DDDDDDDDDD,-12,30,10,-1.2,3.0,1,False,0,0,0,6,4,0,0,0,0,0,6,0,3,0
+19,5,1,0,Marco - IncreasingAlternator,Defector,CDCCDDCCCD,-42,-30,10,-4.2,-3.0,0,True,6,0,6,0,4,0,0,3,3,0,0,2,1,1
+20,1,6,0,Defector,Jonas - Strategy1: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+20,6,1,0,Jonas - Strategy1: 0.5,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+21,1,7,0,Defector,Karim - Simple: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+21,7,1,0,Karim - Simple: 0.5,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+22,1,8,0,Defector,Karim - Ressurection: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+22,8,1,0,Karim - Ressurection: 0.5,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+23,1,9,0,Defector,David - Kobayashi Maru: 0.5,DDDDDDDDDD,-24,10,10,-2.4,1.0,1,False,0,0,0,2,8,0,0,0,0,0,2,0,7,0
+23,9,1,0,David - Kobayashi Maru: 0.5,Defector,DDDCDDDCDD,-34,-10,10,-3.4,-1.0,0,False,2,0,2,0,8,0,0,0,2,0,0,2,5,1
+24,1,10,0,Defector,Stephan: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+24,10,1,0,Stephan: 0.5,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+25,1,11,0,Defector,Dan - Strategy: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+25,11,1,0,Dan - Strategy: 0.5,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+26,1,12,0,Defector,Cardassian General: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+26,12,1,0,Cardassian General: 0.5,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+27,1,13,0,Defector,Cardassian General: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+27,13,1,0,Cardassian General: 0.5,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+28,1,14,0,Defector,Alessandro - Random: 0.5,DDDDDDDDDD,0,50,10,0.0,5.0,1,False,0,0,0,10,0,0,0,0,0,0,9,0,0,0
+28,14,1,0,Alessandro - Random: 0.5,Defector,CCCCCCCCCC,-50,-50,10,-5.0,-5.0,0,True,10,0,10,0,0,0,0,9,0,0,0,0,0,1
+29,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+29,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+30,2,3,0,Tit For Tat,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+30,3,2,0,Grudger,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+31,2,4,0,Tit For Tat,Danai - Random: 0.5,CCCDCDDCCC,-22,-5,10,-2.2,-0.5,0,True,7,4,3,2,1,4,0,0,2,2,0,0,1,1
+31,4,2,0,Danai - Random: 0.5,Tit For Tat,CCDCDDCCCD,-17,5,10,-1.7,0.5,1,True,6,4,2,3,1,2,2,1,1,1,1,1,0,0
+32,2,5,0,Tit For Tat,Marco - IncreasingAlternator,CCDCCDDCCC,-22,-5,10,-2.2,-0.5,0,True,7,4,3,2,1,4,0,0,2,2,0,0,1,1
+32,5,2,0,Marco - IncreasingAlternator,Tit For Tat,CDCCDDCCCD,-17,5,10,-1.7,0.5,1,True,6,4,2,3,1,1,3,2,0,1,1,1,0,0
+33,2,6,0,Tit For Tat,Jonas - Strategy1: 0.5,CCDDDDDDDD,-30,-5,10,-3.0,-0.5,0,True,2,1,1,0,8,1,0,0,1,0,0,0,7,1
+33,6,2,0,Jonas - Strategy1: 0.5,Tit For Tat,CDDDDDDDDD,-25,5,10,-2.5,0.5,1,True,1,1,0,1,8,0,1,0,0,0,1,0,7,0
+34,2,7,0,Tit For Tat,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+34,7,2,0,Karim - Simple: 0.5,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+35,2,8,0,Tit For Tat,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+35,8,2,0,Karim - Ressurection: 0.5,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+36,2,9,0,Tit For Tat,David - Kobayashi Maru: 0.5,CDDDCDDDCD,-30,-5,10,-3.0,-0.5,0,True,3,0,3,2,5,0,0,0,3,2,0,0,4,1
+36,9,2,0,David - Kobayashi Maru: 0.5,Tit For Tat,DDDCDDDCDD,-25,5,10,-2.5,0.5,1,False,2,0,2,3,5,0,0,0,2,0,3,2,2,0
+37,2,10,0,Tit For Tat,Stephan: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+37,10,2,0,Stephan: 0.5,Tit For Tat,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+38,2,11,0,Tit For Tat,Dan - Strategy: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+38,11,2,0,Dan - Strategy: 0.5,Tit For Tat,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+39,2,12,0,Tit For Tat,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+39,12,2,0,Cardassian General: 0.5,Tit For Tat,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+40,2,13,0,Tit For Tat,Cardassian General: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+40,13,2,0,Cardassian General: 0.5,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+41,2,14,0,Tit For Tat,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+41,14,2,0,Alessandro - Random: 0.5,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+42,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+42,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+43,3,4,0,Grudger,Danai - Random: 0.5,CCDDDDDDDD,-12,25,10,-1.2,2.5,1,True,2,1,1,6,2,1,0,0,1,0,5,0,2,0
+43,4,3,0,Danai - Random: 0.5,Grudger,CDCCDDCCCC,-37,-25,10,-3.7,-2.5,0,True,7,1,6,1,2,0,1,4,1,1,0,1,1,1
+44,3,5,0,Grudger,Marco - IncreasingAlternator,CCDDDDDDDD,-15,20,10,-1.5,2.0,1,True,2,1,1,5,3,1,0,0,1,0,5,0,2,0
+44,5,3,0,Marco - IncreasingAlternator,Grudger,CDCCDDCCCD,-35,-20,10,-3.5,-2.0,0,True,6,1,5,1,3,0,1,3,2,1,0,1,1,1
+45,3,6,0,Grudger,Jonas - Strategy1: 0.5,CCDDDDDDDD,-30,-5,10,-3.0,-0.5,0,True,2,1,1,0,8,1,0,0,1,0,0,0,7,1
+45,6,3,0,Jonas - Strategy1: 0.5,Grudger,CDDDDDDDDD,-25,5,10,-2.5,0.5,1,True,1,1,0,1,8,0,1,0,0,0,1,0,7,0
+46,3,7,0,Grudger,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+46,7,3,0,Karim - Simple: 0.5,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+47,3,8,0,Grudger,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+47,8,3,0,Karim - Ressurection: 0.5,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+48,3,9,0,Grudger,David - Kobayashi Maru: 0.5,CDDDDDDDDD,-26,5,10,-2.6,0.5,1,True,1,0,1,2,7,0,0,0,1,0,2,0,6,0
+48,9,3,0,David - Kobayashi Maru: 0.5,Grudger,DDDCDDDCDD,-31,-5,10,-3.1,-0.5,0,False,2,0,2,1,7,0,0,0,2,0,1,2,4,1
+49,3,10,0,Grudger,Stephan: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+49,10,3,0,Stephan: 0.5,Grudger,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+50,3,11,0,Grudger,Dan - Strategy: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+50,11,3,0,Dan - Strategy: 0.5,Grudger,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+51,3,12,0,Grudger,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+51,12,3,0,Cardassian General: 0.5,Grudger,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+52,3,13,0,Grudger,Cardassian General: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+52,13,3,0,Cardassian General: 0.5,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+53,3,14,0,Grudger,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+53,14,3,0,Alessandro - Random: 0.5,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+54,4,4,0,Danai - Random: 0.5,Danai - Random: 0.5,DCDDCDCCDC,-16,10,10,-1.6,1.0,1,False,5,3,2,4,1,1,1,0,2,3,1,1,0,0
+54,4,4,0,Danai - Random: 0.5,Danai - Random: 0.5,DDCCCCCDCC,-26,-10,10,-2.6,-1.0,0,False,7,3,4,2,1,1,1,4,0,2,0,0,1,1
+55,4,5,0,Danai - Random: 0.5,Marco - IncreasingAlternator,DCCDCCDCCD,-21,0,10,-2.1,0.0,0,False,6,3,3,3,1,1,2,2,1,3,0,0,0,1
+55,5,4,0,Marco - IncreasingAlternator,Danai - Random: 0.5,CDCCDDCCCD,-21,0,10,-2.1,0.0,0,True,6,3,3,3,1,2,1,1,2,2,1,0,0,1
+56,4,6,0,Danai - Random: 0.5,Jonas - Strategy1: 0.5,CDDDDCCDDD,-25,0,10,-2.5,0.0,0,True,3,2,1,1,6,0,2,1,0,0,1,1,4,1
+56,6,4,0,Jonas - Strategy1: 0.5,Danai - Random: 0.5,CDDDDDCDCD,-25,0,10,-2.5,0.0,0,True,3,2,1,1,6,0,2,0,1,1,0,1,4,1
+57,4,7,0,Danai - Random: 0.5,Karim - Simple: 0.5,DCCDDDDDDD,-24,5,10,-2.4,0.5,1,False,2,1,1,2,6,0,1,1,0,1,1,0,5,0
+57,7,4,0,Karim - Simple: 0.5,Danai - Random: 0.5,CDCCDDDDDD,-29,-5,10,-2.9,-0.5,0,True,3,1,2,1,6,1,0,0,2,1,0,0,5,1
+58,4,8,0,Danai - Random: 0.5,Karim - Ressurection: 0.5,DCCCDCCCDC,-19,0,10,-1.9,0.0,0,False,7,4,3,3,0,2,2,2,0,3,0,0,0,1
+58,8,4,0,Karim - Ressurection: 0.5,Danai - Random: 0.5,CDCCCDCCCD,-19,0,10,-1.9,0.0,0,True,7,4,3,3,0,4,0,0,3,2,0,0,0,1
+59,4,9,0,Danai - Random: 0.5,David - Kobayashi Maru: 0.5,CCDCDCCDDD,-33,-15,10,-3.3,-1.5,0,True,5,1,4,1,4,0,1,2,2,0,1,2,1,1
+59,9,4,0,David - Kobayashi Maru: 0.5,Danai - Random: 0.5,DDDCDDDCDD,-18,15,10,-1.8,1.5,1,False,2,1,1,4,4,0,1,0,1,1,3,1,2,0
+60,4,10,0,Danai - Random: 0.5,Stephan: 0.5,DDDCDDDCDD,-34,-10,10,-3.4,-1.0,0,False,2,0,2,0,8,0,0,0,2,0,0,2,5,1
+60,10,4,0,Stephan: 0.5,Danai - Random: 0.5,DDDDDDDDDD,-24,10,10,-2.4,1.0,1,False,0,0,0,2,8,0,0,0,0,0,2,0,7,0
+61,4,11,0,Danai - Random: 0.5,Dan - Strategy: 0.5,DCDCCCDDCC,-38,-25,10,-3.8,-2.5,0,False,6,1,5,0,4,0,0,3,2,0,0,3,1,1
+61,11,4,0,Dan - Strategy: 0.5,Danai - Random: 0.5,DDDDDDDDDC,-13,25,10,-1.3,2.5,1,False,1,1,0,5,4,0,0,0,0,1,4,0,4,0
+62,4,12,0,Danai - Random: 0.5,Cardassian General: 0.5,CDCDDDDDCC,-28,-5,10,-2.8,-0.5,0,True,4,1,3,2,4,0,1,1,1,1,1,1,3,1
+62,12,4,0,Cardassian General: 0.5,Danai - Random: 0.5,CCDCDDDDDD,-23,5,10,-2.3,0.5,1,True,3,1,2,3,4,1,0,0,2,1,1,0,4,0
+63,4,13,0,Danai - Random: 0.5,Cardassian General: 0.5,DCDDCCCCCC,-34,-20,10,-3.4,-2.0,0,False,7,1,6,2,1,1,0,4,1,1,1,1,0,1
+63,13,4,0,Cardassian General: 0.5,Danai - Random: 0.5,CDCDCDDDDD,-14,20,10,-1.4,2.0,1,True,3,1,2,6,1,0,1,0,2,1,4,1,0,0
+64,4,14,0,Danai - Random: 0.5,Alessandro - Random: 0.5,DDCCDDCDDD,-3,35,10,-0.3,3.5,1,False,3,3,0,7,0,1,2,0,0,2,4,0,0,0
+64,14,4,0,Alessandro - Random: 0.5,Danai - Random: 0.5,CCCCCCCCCC,-38,-35,10,-3.8,-3.5,0,True,10,3,7,0,0,3,0,6,0,0,0,0,0,1
+65,5,5,0,Marco - IncreasingAlternator,Marco - IncreasingAlternator,CDCCDDCCCD,-18,0,10,-1.8,0.0,0,True,6,6,0,0,4,3,3,0,0,0,0,2,1,1
+65,5,5,0,Marco - IncreasingAlternator,Marco - IncreasingAlternator,CDCCDDCCCD,-18,0,10,-1.8,0.0,0,True,6,6,0,0,4,3,3,0,0,0,0,2,1,1
+66,5,6,0,Marco - IncreasingAlternator,Jonas - Strategy1: 0.5,CDCCDDCCCD,-26,-10,10,-2.6,-1.0,0,True,6,4,2,0,4,1,3,2,0,0,0,2,1,1
+66,6,5,0,Jonas - Strategy1: 0.5,Marco - IncreasingAlternator,CDDCDDDCCD,-16,10,10,-1.6,1.0,1,True,4,4,0,2,4,1,3,0,0,2,0,0,3,0
+67,5,7,0,Marco - IncreasingAlternator,Karim - Simple: 0.5,CDCCDDCCCD,-17,5,10,-1.7,0.5,1,True,6,4,2,3,1,1,3,2,0,1,1,1,0,0
+67,7,5,0,Karim - Simple: 0.5,Marco - IncreasingAlternator,CCDCCDDCCC,-22,-5,10,-2.2,-0.5,0,True,7,4,3,2,1,4,0,0,2,2,0,0,1,1
+68,5,8,0,Marco - IncreasingAlternator,Karim - Ressurection: 0.5,CDCCDDCCCD,-17,5,10,-1.7,0.5,1,True,6,4,2,3,1,1,3,2,0,1,1,1,0,0
+68,8,5,0,Karim - Ressurection: 0.5,Marco - IncreasingAlternator,CCDCCDDCCC,-22,-5,10,-2.2,-0.5,0,True,7,4,3,2,1,4,0,0,2,2,0,0,1,1
+69,5,9,0,Marco - IncreasingAlternator,David - Kobayashi Maru: 0.5,CDCCDDCCCD,-34,-20,10,-3.4,-2.0,0,True,6,2,4,0,4,1,1,2,2,0,0,2,1,1
+69,9,5,0,David - Kobayashi Maru: 0.5,Marco - IncreasingAlternator,DDDCDDDCDD,-14,20,10,-1.4,2.0,1,False,2,2,0,4,4,0,2,0,0,2,2,0,3,0
+70,5,10,0,Marco - IncreasingAlternator,Stephan: 0.5,CDCCDDCCCD,-31,-15,10,-3.1,-1.5,0,True,6,2,4,1,3,1,1,2,2,0,0,2,1,1
+70,10,5,0,Stephan: 0.5,Marco - IncreasingAlternator,DDDDDDDCCC,-16,15,10,-1.6,1.5,1,False,3,2,1,4,3,2,0,0,0,1,3,0,3,0
+71,5,11,0,Marco - IncreasingAlternator,Dan - Strategy: 0.5,CDCCDDCCCD,-35,-20,10,-3.5,-2.0,0,True,6,1,5,1,3,1,0,2,3,0,1,2,0,1
+71,11,5,0,Dan - Strategy: 0.5,Marco - IncreasingAlternator,DDDDCDDCDD,-15,20,10,-1.5,2.0,1,False,2,1,1,5,3,0,1,0,1,2,3,0,2,0
+72,5,12,0,Marco - IncreasingAlternator,Cardassian General: 0.5,CDCCDDCCCD,-20,0,10,-2.0,0.0,0,True,6,4,2,2,2,1,3,2,0,1,1,1,0,1
+72,12,5,0,Cardassian General: 0.5,Marco - IncreasingAlternator,CCDCCDDCCD,-20,0,10,-2.0,0.0,0,True,6,4,2,2,2,3,1,0,2,2,0,0,1,1
+73,5,13,0,Marco - IncreasingAlternator,Cardassian General: 0.5,CDCCDDCCCD,-27,-10,10,-2.7,-1.0,0,True,6,3,3,1,3,2,1,1,2,1,0,1,1,1
+73,13,5,0,Cardassian General: 0.5,Marco - IncreasingAlternator,CCCDDDCDDD,-17,10,10,-1.7,1.0,1,True,4,3,1,3,3,1,2,1,0,0,3,1,1,0
+74,5,14,0,Marco - IncreasingAlternator,Alessandro - Random: 0.5,CDCCDDCCCD,-6,20,10,-0.6,2.0,1,True,6,6,0,4,0,3,3,0,0,2,1,0,0,0
+74,14,5,0,Alessandro - Random: 0.5,Marco - IncreasingAlternator,CCCCCCCCCC,-26,-20,10,-2.6,-2.0,0,True,10,6,4,0,0,6,0,3,0,0,0,0,0,1
+75,6,6,0,Jonas - Strategy1: 0.5,Jonas - Strategy1: 0.5,CDDDDDDDDD,-28,0,10,-2.8,0.0,0,True,1,1,0,0,9,0,1,0,0,0,0,0,8,1
+75,6,6,0,Jonas - Strategy1: 0.5,Jonas - Strategy1: 0.5,CDDDDDDDDD,-28,0,10,-2.8,0.0,0,True,1,1,0,0,9,0,1,0,0,0,0,0,8,1
+76,6,7,0,Jonas - Strategy1: 0.5,Karim - Simple: 0.5,CDDDDDDDDD,-25,5,10,-2.5,0.5,1,True,1,1,0,1,8,0,1,0,0,0,1,0,7,0
+76,7,6,0,Karim - Simple: 0.5,Jonas - Strategy1: 0.5,CCDDDDDDDD,-30,-5,10,-3.0,-0.5,0,True,2,1,1,0,8,1,0,0,1,0,0,0,7,1
+77,6,8,0,Jonas - Strategy1: 0.5,Karim - Ressurection: 0.5,CDDDDDDDDD,-25,5,10,-2.5,0.5,1,True,1,1,0,1,8,0,1,0,0,0,1,0,7,0
+77,8,6,0,Karim - Ressurection: 0.5,Jonas - Strategy1: 0.5,CCDDDDDDDD,-30,-5,10,-3.0,-0.5,0,True,2,1,1,0,8,1,0,0,1,0,0,0,7,1
+78,6,9,0,Jonas - Strategy1: 0.5,David - Kobayashi Maru: 0.5,CDDDCDDDCD,-30,-5,10,-3.0,-0.5,0,True,3,0,3,2,5,0,0,0,3,2,0,0,4,1
+78,9,6,0,David - Kobayashi Maru: 0.5,Jonas - Strategy1: 0.5,DDDCDDDCDD,-25,5,10,-2.5,0.5,1,False,2,0,2,3,5,0,0,0,2,0,3,2,2,0
+79,6,10,0,Jonas - Strategy1: 0.5,Stephan: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+79,10,6,0,Stephan: 0.5,Jonas - Strategy1: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+80,6,11,0,Jonas - Strategy1: 0.5,Dan - Strategy: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+80,11,6,0,Dan - Strategy: 0.5,Jonas - Strategy1: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+81,6,12,0,Jonas - Strategy1: 0.5,Cardassian General: 0.5,CDDDDDDDDD,-25,5,10,-2.5,0.5,1,True,1,1,0,1,8,0,1,0,0,0,1,0,7,0
+81,12,6,0,Cardassian General: 0.5,Jonas - Strategy1: 0.5,CCDDDDDDDD,-30,-5,10,-3.0,-0.5,0,True,2,1,1,0,8,1,0,0,1,0,0,0,7,1
+82,6,13,0,Jonas - Strategy1: 0.5,Cardassian General: 0.5,CDDDDCDDCD,-23,5,10,-2.3,0.5,1,True,3,1,2,3,4,0,1,0,2,2,1,0,3,0
+82,13,6,0,Cardassian General: 0.5,Jonas - Strategy1: 0.5,CCDDCDDCDD,-28,-5,10,-2.8,-0.5,0,True,4,1,3,2,4,1,0,0,3,0,2,2,1,1
+83,6,14,0,Jonas - Strategy1: 0.5,Alessandro - Random: 0.5,CDDDDDDDDD,-1,45,10,-0.1,4.5,1,True,1,1,0,9,0,0,1,0,0,0,8,0,0,0
+83,14,6,0,Alessandro - Random: 0.5,Jonas - Strategy1: 0.5,CCCCCCCCCC,-46,-45,10,-4.6,-4.5,0,True,10,1,9,0,0,1,0,8,0,0,0,0,0,1
+84,7,7,0,Karim - Simple: 0.5,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+84,7,7,0,Karim - Simple: 0.5,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+85,7,8,0,Karim - Simple: 0.5,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+85,8,7,0,Karim - Ressurection: 0.5,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+86,7,9,0,Karim - Simple: 0.5,David - Kobayashi Maru: 0.5,CDDDCDDDCD,-30,-5,10,-3.0,-0.5,0,True,3,0,3,2,5,0,0,0,3,2,0,0,4,1
+86,9,7,0,David - Kobayashi Maru: 0.5,Karim - Simple: 0.5,DDDCDDDCDD,-25,5,10,-2.5,0.5,1,False,2,0,2,3,5,0,0,0,2,0,3,2,2,0
+87,7,10,0,Karim - Simple: 0.5,Stephan: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+87,10,7,0,Stephan: 0.5,Karim - Simple: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+88,7,11,0,Karim - Simple: 0.5,Dan - Strategy: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+88,11,7,0,Dan - Strategy: 0.5,Karim - Simple: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+89,7,12,0,Karim - Simple: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+89,12,7,0,Cardassian General: 0.5,Karim - Simple: 0.5,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+90,7,13,0,Karim - Simple: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+90,13,7,0,Cardassian General: 0.5,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+91,7,14,0,Karim - Simple: 0.5,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+91,14,7,0,Alessandro - Random: 0.5,Karim - Simple: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+92,8,8,0,Karim - Ressurection: 0.5,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+92,8,8,0,Karim - Ressurection: 0.5,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+93,8,9,0,Karim - Ressurection: 0.5,David - Kobayashi Maru: 0.5,CDDDCDDDCD,-30,-5,10,-3.0,-0.5,0,True,3,0,3,2,5,0,0,0,3,2,0,0,4,1
+93,9,8,0,David - Kobayashi Maru: 0.5,Karim - Ressurection: 0.5,DDDCDDDCDD,-25,5,10,-2.5,0.5,1,False,2,0,2,3,5,0,0,0,2,0,3,2,2,0
+94,8,10,0,Karim - Ressurection: 0.5,Stephan: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+94,10,8,0,Stephan: 0.5,Karim - Ressurection: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+95,8,11,0,Karim - Ressurection: 0.5,Dan - Strategy: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+95,11,8,0,Dan - Strategy: 0.5,Karim - Ressurection: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+96,8,12,0,Karim - Ressurection: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+96,12,8,0,Cardassian General: 0.5,Karim - Ressurection: 0.5,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+97,8,13,0,Karim - Ressurection: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+97,13,8,0,Cardassian General: 0.5,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+98,8,14,0,Karim - Ressurection: 0.5,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+98,14,8,0,Alessandro - Random: 0.5,Karim - Ressurection: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+99,9,9,0,David - Kobayashi Maru: 0.5,David - Kobayashi Maru: 0.5,DDDCDDDCDD,-26,0,10,-2.6,0.0,0,False,2,2,0,0,8,0,2,0,0,0,0,2,5,1
+99,9,9,0,David - Kobayashi Maru: 0.5,David - Kobayashi Maru: 0.5,DDDCDDDCDD,-26,0,10,-2.6,0.0,0,False,2,2,0,0,8,0,2,0,0,0,0,2,5,1
+100,9,10,0,David - Kobayashi Maru: 0.5,Stephan: 0.5,DDDCDDDCDD,-34,-10,10,-3.4,-1.0,0,False,2,0,2,0,8,0,0,0,2,0,0,2,5,1
+100,10,9,0,Stephan: 0.5,David - Kobayashi Maru: 0.5,DDDDDDDDDD,-24,10,10,-2.4,1.0,1,False,0,0,0,2,8,0,0,0,0,0,2,0,7,0
+101,9,11,0,David - Kobayashi Maru: 0.5,Dan - Strategy: 0.5,DDDCDDDCDD,-34,-10,10,-3.4,-1.0,0,False,2,0,2,0,8,0,0,0,2,0,0,2,5,1
+101,11,9,0,Dan - Strategy: 0.5,David - Kobayashi Maru: 0.5,DDDDDDDDDD,-24,10,10,-2.4,1.0,1,False,0,0,0,2,8,0,0,0,0,0,2,0,7,0
+102,9,12,0,David - Kobayashi Maru: 0.5,Cardassian General: 0.5,DDDCDDDCDD,-25,5,10,-2.5,0.5,1,False,2,0,2,3,5,0,0,0,2,0,3,2,2,0
+102,12,9,0,Cardassian General: 0.5,David - Kobayashi Maru: 0.5,CDDDCDDDCD,-30,-5,10,-3.0,-0.5,0,True,3,0,3,2,5,0,0,0,3,2,0,0,4,1
+103,9,13,0,David - Kobayashi Maru: 0.5,Cardassian General: 0.5,DDDCDDDCDD,-18,15,10,-1.8,1.5,1,False,2,1,1,4,4,0,1,0,1,1,3,1,2,0
+103,13,9,0,Cardassian General: 0.5,David - Kobayashi Maru: 0.5,CCCCDCDDDD,-33,-15,10,-3.3,-1.5,0,True,5,1,4,1,4,0,1,3,1,0,1,1,2,1
+104,9,14,0,David - Kobayashi Maru: 0.5,Alessandro - Random: 0.5,DDDCDDDCDD,-2,40,10,-0.2,4.0,1,False,2,2,0,8,0,0,2,0,0,2,5,0,0,0
+104,14,9,0,Alessandro - Random: 0.5,David - Kobayashi Maru: 0.5,CCCCCCCCCC,-42,-40,10,-4.2,-4.0,0,True,10,2,8,0,0,2,0,7,0,0,0,0,0,1
+105,10,10,0,Stephan: 0.5,Stephan: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+105,10,10,0,Stephan: 0.5,Stephan: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+106,10,11,0,Stephan: 0.5,Dan - Strategy: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+106,11,10,0,Dan - Strategy: 0.5,Stephan: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+107,10,12,0,Stephan: 0.5,Cardassian General: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+107,12,10,0,Cardassian General: 0.5,Stephan: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+108,10,13,0,Stephan: 0.5,Cardassian General: 0.5,DDDDDDDDDD,-21,15,10,-2.1,1.5,1,False,0,0,0,3,7,0,0,0,0,0,3,0,6,0
+108,13,10,0,Cardassian General: 0.5,Stephan: 0.5,CDCDCDDDDD,-36,-15,10,-3.6,-1.5,0,True,3,0,3,0,7,0,0,0,3,0,0,2,4,1
+109,10,14,0,Stephan: 0.5,Alessandro - Random: 0.5,DDDDCCCCCC,-6,20,10,-0.6,2.0,1,False,6,6,0,4,0,5,0,0,0,1,3,0,0,0
+109,14,10,0,Alessandro - Random: 0.5,Stephan: 0.5,CCCCCCCCCC,-26,-20,10,-2.6,-2.0,0,True,10,6,4,0,0,5,0,4,0,0,0,0,0,1
+110,11,11,0,Dan - Strategy: 0.5,Dan - Strategy: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+110,11,11,0,Dan - Strategy: 0.5,Dan - Strategy: 0.5,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+111,11,12,0,Dan - Strategy: 0.5,Cardassian General: 0.5,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+111,12,11,0,Cardassian General: 0.5,Dan - Strategy: 0.5,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+112,11,13,0,Dan - Strategy: 0.5,Cardassian General: 0.5,DDDDDDDDDD,-15,25,10,-1.5,2.5,1,False,0,0,0,5,5,0,0,0,0,0,4,0,5,0
+112,13,11,0,Cardassian General: 0.5,Dan - Strategy: 0.5,CDCDCDDCDC,-40,-25,10,-4.0,-2.5,0,True,5,0,5,0,5,0,0,0,4,0,0,4,1,1
+113,11,14,0,Dan - Strategy: 0.5,Alessandro - Random: 0.5,DDDDDDDDDD,0,50,10,0.0,5.0,1,False,0,0,0,10,0,0,0,0,0,0,9,0,0,0
+113,14,11,0,Alessandro - Random: 0.5,Dan - Strategy: 0.5,CCCCCCCCCC,-50,-50,10,-5.0,-5.0,0,True,10,0,10,0,0,0,0,9,0,0,0,0,0,1
+114,12,12,0,Cardassian General: 0.5,Cardassian General: 0.5,CCCCCCCCCD,-12,0,10,-1.2,0.0,0,True,9,9,0,0,1,8,1,0,0,0,0,0,0,1
+114,12,12,0,Cardassian General: 0.5,Cardassian General: 0.5,CCCCCCCCCD,-12,0,10,-1.2,0.0,0,True,9,9,0,0,1,8,1,0,0,0,0,0,0,1
+115,12,13,0,Cardassian General: 0.5,Cardassian General: 0.5,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+115,13,12,0,Cardassian General: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+116,12,14,0,Cardassian General: 0.5,Alessandro - Random: 0.5,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+116,14,12,0,Alessandro - Random: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+117,13,13,0,Cardassian General: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-14,-5,10,-1.4,-0.5,0,True,10,9,1,0,0,9,0,0,0,0,0,0,0,1
+117,13,13,0,Cardassian General: 0.5,Cardassian General: 0.5,CCCCCCCCCD,-9,5,10,-0.9,0.5,1,True,9,9,0,1,0,8,1,0,0,0,0,0,0,0
+118,13,14,0,Cardassian General: 0.5,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+118,14,13,0,Alessandro - Random: 0.5,Cardassian General: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+119,14,14,0,Alessandro - Random: 0.5,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+119,14,14,0,Alessandro - Random: 0.5,Alessandro - Random: 0.5,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
