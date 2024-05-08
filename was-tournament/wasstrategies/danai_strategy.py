@@ -16,7 +16,7 @@ class Danai(Player):
 
     name = "Danai - Random"
     classifier = {
-        "memory_depth": 0,   # Memory-one Four-Vector = (p, p, p, p)
+        "memory_depth": 0,  # Memory-one Four-Vector = (p, p, p, p)
         "stochastic": True,
         "long_run_time": False,
         "inspects_source": False,
