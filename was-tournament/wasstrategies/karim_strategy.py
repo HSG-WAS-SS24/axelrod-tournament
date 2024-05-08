@@ -57,7 +57,7 @@ class Karim2(Player):
     - Lunatic: [Tzafestas2000]_
     """
 
-    name = "Karim - Simple"
+    name = "Karim - Ressurection"
     classifier = {
         "memory_depth": 0,
         "stochastic": True,
@@ -83,7 +83,12 @@ class Karim2(Player):
 
     def strategy(self, opponent: Player) -> Action:
         """Actual strategy definition that determines player's action."""
-        return C
+        if len(self.history) == 0:
+            return C
+        if len(self.history) >= 5 and self.history[-5:] == [D, D, D, D, D]:
+            return D
+        else:
+            return opponent.history[-1]
 
 
 
