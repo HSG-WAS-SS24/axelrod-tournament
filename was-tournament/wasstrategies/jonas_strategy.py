@@ -44,6 +44,8 @@ class Jonas(Player):
         """Actual strategy definition that determines player's action."""
         if len(self.history) == 0:
             return C
+        if len(self.history) == 9:
+            return D
         if len(self.history) >= 8:
             if self.gained_trust == False:
                 return D
